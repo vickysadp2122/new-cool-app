@@ -17,7 +17,8 @@ trainees = [
     "Mabel",
     "Ryan",
     "Victoria",
-    "Mohammad"
+    "Mohammad",
+    "maddy"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
@@ -33,9 +34,10 @@ foods = [
     "Krispy Kremes",
     "burrito",
     "cheesecake",
-    "fish & chips"
+    "fish & chips",
+    "eggs
 ]
-
+i
 @app.route('/')
 def home():
     trainee = random.choice(trainees)
