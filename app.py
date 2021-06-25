@@ -8,11 +8,15 @@ app = Flask(__name__)
 trainees = [
     "Harry",
     "Mabel"
+    "Ryan",
+    "Victoria"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizza",
     "Krispy Kremes"
+    "burrito",
+    "cheesecake"  
 ]
 # ------------------------------------------------ #
 
