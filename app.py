@@ -6,6 +6,7 @@ app = Flask(__name__)
 # Add your name in this list!
 trainees = [
     "Harry",
+    "Catherine",
     "Hannah2",
     "Ryan",
     "Laura",
@@ -18,6 +19,7 @@ trainees = [
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizza",
+    "Cheese",
     "Laksa",
     "burrito",
     "chocolate",
