@@ -3,18 +3,32 @@ import random
 
 app = Flask(__name__)
 
-# --------------MAKE CHANGES HERE----------------- #
 # Add your name in this list!
 trainees = [
     "Harry",
     "Catherine",
+    "Hannah2",
+    "Ryan",
+    "Laura",
+	"Penny",
+    "Mabel",
+    "Ryan",
+    "Victoria",
+    "Mohammad"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizza",
     "Cheese",
+    "Laksa",
+    "burrito",
+    "chocolate",
+	"sushi",
+    "Krispy Kremes",
+    "burrito",
+    "cheesecake",
+    "fish & chips"
 ]
-# ------------------------------------------------ #
 
 @app.route('/')
 def home():
