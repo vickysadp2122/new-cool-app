@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Add your name in this list!
 trainees = [
     "Harry",
-	"Penny,
+	"Penny",
     "Mabel",
     "Ryan",
     "Victoria"
