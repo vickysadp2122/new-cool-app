@@ -9,12 +9,22 @@ trainees = [
     "Harry",
     "Ryan",
     "Laura"
+	"Penny",
+    "Mabel",
+    "Ryan",
+    "Victoria",
+    "Mohammad"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizza",
     "burrito",
     "chocolate"
+	"sushi",
+    "Krispy Kremes",
+    "burrito",
+    "cheesecake",
+    "fish & chips"
 ]
 # ------------------------------------------------ #
 
